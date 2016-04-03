@@ -1,4 +1,5 @@
-# Summary
+# Interactive poster 
+##Project summary
 	This is an interactive poster consists of three parts : iPad, touchable buttons, and illuminated diagram. This poster will present a new branding concept. The goal of this project is creating an interactive poster for users to interact, so they will have a better understanding of the relationship and system behind the branding. Also, through interact with poster, they can play the video by themselves rather than just standing there watching the video. 
 	In the poster, the upper part is a project diagram which consists of three parts: website, iPad, and TV. The lower part of poster consists of three buttons. Each button can control corresponding diagram. Then, when the button illuminate the diagram, the iPad/ monitor will play corresponding videos at the same time. One parts can trigger another, so iPad, touchable buttons, and illuminated diagram form a strong relationship.
 
