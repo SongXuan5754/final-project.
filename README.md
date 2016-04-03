@@ -14,20 +14,20 @@ This is an interactive poster consists of three parts : iPad, touchable buttons,
 
 ##Project Timeline:
  1. WEEK1:
-            - April 3 Create the video / order the components 
-            - April 4 Figure out how everything works.
-            - April 5- April 7 Prototype and write the code (meet with Leah if it is necessary)
-            - April 8 - Iterate prototype and get feedback (meet with J.D. on Friday)
+- April 3 Create the video / order the components 
+- April 4 Figure out how everything works.
+- April 5- April 7 Prototype and write the code (meet with Leah if it is necessary)
+- April 8 - Iterate prototype and get feedback (meet with J.D. on Friday)
  2. WEEK2:
-            - April 9- 10 Measure the size and start to create final project  
-            - April 11  Iterate and get feedback from J.D. 
-           - ( Finish before final project before April 13 mid-night  )
-            - April 14 Get feedback from Leah or other tutor 
-            - April 17 Install project in Nave. 
+- April 9- 10 Measure the size and start to create final project  
+- April 11  Iterate and get feedback from J.D. 
+- ( Finish before final project before April 13 mid-night  )
+- April 14 Get feedback from Leah or other tutor 
+- April 17 Install project in Nave. 
 3. WEEK 3 
-            - Get project back and ask feedback from J.D.
+- Get project back and ask feedback from J.D.
 4. Week 4
-            - Get feedback from J.D. and iterate the final project 
+- Get feedback from J.D. and iterate the final project 
 5. Week 5
-            - Present project in class  
+- Present project in class  
 
