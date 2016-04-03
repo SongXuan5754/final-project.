@@ -9,7 +9,7 @@ Challenges:
 	The most tricky piece is having the arduino communicate with the iPad. I need to write the code in arduino, but also need to write some code for the iPad. Also, I need to use Bluetooth to communicate between the two, it will passes messages back and forth.
 
 Project Timeline:
- 	WEEK1:
+ WEEK1:
             April 3 Create the video / order the components 
             April 4 Figure out how everything works.
             April 5- April 7 Prototype and write the code (meet with Leah if it is necessary)
