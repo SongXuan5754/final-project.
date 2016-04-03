@@ -1,9 +1,14 @@
-**Summary**
-	This is an interactive poster consists of three parts : iPad, touchable buttons, and illuminated diagram. This poster will present a new branding concept. The goal of this project is creating an interactive poster for users to interact, so they will have a better understanding of the relationship and system behind the branding. Also, through interact with poster, they can play the video by themselves rather than just standing there watching the video. 
+## Summary
+
+This is an interactive poster consists of three parts : iPad, touchable buttons, and illuminated diagram. This poster will present a new branding concept. The goal of this project is creating an interactive poster for users to interact, so they will have a better understanding of the relationship and system behind the branding. Also, through interact with poster, they can play the video by themselves rather than just standing there watching the video. 
 	In the poster, the upper part is a project diagram which consists of three parts: website, iPad, and TV. The lower part of poster consists of three buttons. Each button can control corresponding diagram. Then, when the button illuminate the diagram, the iPad/ monitor will play corresponding videos at the same time. One parts can trigger another, so iPad, touchable buttons, and illuminated diagram form a strong relationship.
 
 Component Parts:
-	iPad, USB serial, Aruduino(with format code), bluetooth button, LED 
+	- iPad(with video)
+	- USB serial
+	- Aruduino(with format code)
+	- Bluetooth button
+	- LED 
 
 Challenges:
 	The most tricky piece is having the arduino communicate with the iPad. I need to write the code in arduino, but also need to write some code for the iPad. Also, I need to use Bluetooth to communicate between the two, it will passes messages back and forth.
