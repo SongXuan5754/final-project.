@@ -30,3 +30,4 @@ This is an interactive poster consists of three parts : iPad, touchable buttons,
             - Get feedback from J.D. and iterate the final project 
 5. Week 5
             - Present project in class  
+
