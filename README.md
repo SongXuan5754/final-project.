@@ -12,7 +12,11 @@ the heartbeat is above maximum rate. Users can customize their maximum heart rat
 ## Challenge
 1. The most tricky part is how to make vibration and neo-pixel works as the same time.
 2. How to detect pulse sensor in human body except ear and finger. 
-
+## Things I consider 
+What can I detect with a sensor? What are its limitations? Do those opportunities and limitations work with my concept?
+How can I embed as much as humanism in my design
+How can I make technology unobtrusive, or even artistic
+Physical data visualization
 ##Project Timeline:
  1. WEEK1:
 - April 3 Order the components 
